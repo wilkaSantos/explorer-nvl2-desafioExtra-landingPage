@@ -1,0 +1,96 @@
+
+.hero{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    margin: 6.4rem auto 0;
+    width: 102.4rem;
+
+    font-family: var(--ff-page);
+}
+
+.container-data{
+    display: flex;
+    flex-direction: column;
+
+    width: 74rem;
+}
+
+    .container-data img{
+        width: 35rem;
+        height: 23.8rem;
+        margin: 0 auto;
+    }
+    .container-data h1{
+        font-size: 3.2rem;
+        line-height: 4rem;
+        text-align: center;
+
+        margin-top: 3.2rem;
+    }
+    .container-data h1 span{
+        color: var(--c-text-special);
+    }
+    .container-data p{
+        font-size: 1.5rem;
+        line-height: 22px;
+        text-align: center;
+        font-weight: 400;
+
+        color: var(--c-text-primary);
+    }
+    .wrapped p{
+        margin: 1.6rem auto 0;
+        width: 58rem;
+    }
+    .wrapped span{
+        color: var(--c-text-secundary);
+        font-weight: 700;
+    }
+    .text-destiny{
+        margin-top: 3.2rem;
+    }
+
+    .container-menu{
+        margin-top: 5.4rem;
+        width: 100%;
+        height: 5rem;
+
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .line{
+        width: 39.1rem;
+        margin-bottom: 1.6rem;
+        border: 0.5px solid var(--c-line);
+    }
+    .container-menu ul{
+        display: flex;
+        gap: 4.2rem;
+
+        list-style: none;
+    }
+    .container-menu ul li a{
+        text-decoration: none;
+
+        font-weight: 700;
+        font-size: 1.5rem;
+        line-height: 147.68%;
+        text-align: center;
+        color: var(--c-text-secundary);
+    }
+    .container-menu ul li a:hover{
+        color: var(--c-text-hover);
+    }
+
+
+footer img{
+    position: fixed;
+    bottom: 0;
+
+    width: 100%;
+
+}
