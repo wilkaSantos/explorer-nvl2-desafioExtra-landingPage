@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Recriar uma langing page de uma aplicação chamada "Flutuar.com", baseado no layout disponibilizado no Figma. Neste projeto foi possível exercitar, meus conhecimentos em posicionamento de elemetos, espaçamento e trabalhar ainda mais com tags semântica. 
 
-- [Visite o projeto]()
+- [Visite o projeto](https://wilkasantos.github.io/explorer-nvl2-desafioExtra-landingPage/)
 
 <br>
 ## 🔖 Layout
